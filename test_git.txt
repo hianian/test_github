@@ -1,5 +1,5 @@
 this is my first test of git for my private blog
 
-add some changes
+add some changes there is changed by master
 
 some changes by hot_fix branch
