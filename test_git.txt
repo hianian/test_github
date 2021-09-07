@@ -1,4 +1,4 @@
-this is my first test of git for my private blog changed by master
+this is my first test of git for my private blog
 
 add some changes there is changed by master and hot_fix
 
